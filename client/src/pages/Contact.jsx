@@ -2,12 +2,6 @@ import React from 'react';
 
 function Contact() {
     return (
-        // <div>
-        //     <div className='py-40 bg-black text-center text-white px-4'>
-        //         <h1 className='text-5xl lg:text-7xl font-bold mb-5'> Contact Page</h1> 
-        //     </div>
-        // </div>
-
         <div className="flex flex-col md:flex-row items-center justify-center min-h-screen bg-gray-100 p-4">
             <div className="w-full md:w-1/2 flex justify-center mb-6 md:mb-0">
                 <img src="https://cdn.dribbble.com/users/8900585/screenshots/16789091/contact_us_3_4x.jpg" alt="Illustration" className="max-w-sm" />
